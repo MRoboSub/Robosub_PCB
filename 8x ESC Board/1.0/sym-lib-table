@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "3568")(type "KiCad")(uri "C:/Users/kchir/Documents/KiCad projects/ROBOSUB/kicad/ESC Prototyping/COMPONENTS/3568/3568.kicad_sym")(options "")(descr ""))
+  (lib (name "CUI_TB009-508-02BE")(type "KiCad")(uri "C:/Users/kchir/Documents/KiCad projects/ROBOSUB/kicad/ESC Prototyping/COMPONENTS/TB009-508-02BE Wire Terminal/CUI_TB009-508-02BE.kicad_sym")(options "")(descr ""))
+  (lib (name "CUI_TB009-508-03BE")(type "KiCad")(uri "C:/Users/kchir/Documents/KiCad projects/ROBOSUB/kicad/ESC Prototyping/COMPONENTS/TB009-508-03BE Wire Terminal/CUI_TB009-508-03BE.kicad_sym")(options "")(descr ""))
+  (lib (name "XT60PW-M")(type "KiCad")(uri "C:/Users/kchir/Documents/KiCad projects/ROBOSUB/kicad/ESC Prototyping/COMPONENTS/XT60PW-M Power Connector/XT60PW-M.kicad_sym")(options "")(descr ""))
+  (lib (name "XT60PW-F")(type "KiCad")(uri "C:/Users/kchir/Documents/KiCad projects/ROBOSUB/kicad/ESC Prototyping/COMPONENTS/XT60PW-F Power Connector/XT60PW-F.kicad_sym")(options "")(descr ""))
+)
