@@ -1018,6 +1018,73 @@
 		(uuid "c2dd9818-c36b-4744-9553-d965fac8ffd4")
 	)
 	(symbol
+		(lib_id "Device:R_US")
+		(at 111.76 115.57 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "351b60e3-fadb-4950-9fe9-4f140f73a712")
+		(property "Reference" "R1"
+			(at 111.76 117.856 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 111.506 113.284 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 112.014 114.554 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 111.76 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c499f90f-c6e4-417d-abef-9dbbc7e5716a")
+		)
+		(pin "2"
+			(uuid "cb3c0d96-32e9-478c-96de-f788eea3cd1f")
+		)
+		(instances
+			(project ""
+				(path "/65e50814-7ec2-4aed-9027-cf46a8554e87"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "US5881LSE-AAA-000-RE:US5881LSE-AAA-000-RE")
 		(at 107.95 91.44 270)
 		(unit 1)
@@ -1026,8 +1093,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1461535f-3eb2-482f-866e-5445c8ca68ef")
-		(property "Reference" "U1"
+		(uuid "9c97779a-004f-4651-85c2-b1657d4aff9a")
+		(property "Reference" "U2"
 			(at 116.84 90.1699 90)
 			(effects
 				(font
@@ -1194,85 +1261,18 @@
 			)
 		)
 		(pin "1"
-			(uuid "93706406-30ab-4712-b1f6-f99f4029db2e")
+			(uuid "57313763-6daa-4ee3-8f1e-8160a6f2b0f9")
 		)
 		(pin "3"
-			(uuid "9fdf7b57-b450-4dde-bce3-0803e38eb1f8")
+			(uuid "c221c73c-c5e5-471f-9300-d729e32f1261")
 		)
 		(pin "2"
-			(uuid "a50e8b75-31b4-4e14-a13d-6fc7834a4e8f")
+			(uuid "5b3f2ffd-de60-4230-9100-cdf69697634d")
 		)
 		(instances
 			(project ""
 				(path "/65e50814-7ec2-4aed-9027-cf46a8554e87"
-					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 111.76 115.57 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "351b60e3-fadb-4950-9fe9-4f140f73a712")
-		(property "Reference" "R1"
-			(at 111.76 117.856 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 111.506 113.284 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 112.014 114.554 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 111.76 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 111.76 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c499f90f-c6e4-417d-abef-9dbbc7e5716a")
-		)
-		(pin "2"
-			(uuid "cb3c0d96-32e9-478c-96de-f788eea3cd1f")
-		)
-		(instances
-			(project ""
-				(path "/65e50814-7ec2-4aed-9027-cf46a8554e87"
-					(reference "R1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
