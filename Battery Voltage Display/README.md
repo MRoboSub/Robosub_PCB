@@ -6,7 +6,7 @@ Designed to display the current battery voltage along with an indicator if volta
 # Plans
 - AtTiny85 for built-in signal processing
 - Max471 for voltage detection
-- Possibly use LM317 for 5v regulator
+- Possibly use 78L05 (or LM317 for higher current) for 5v regulator
 - 2 LEDS, one for optimal voltage and one for beyond threshold voltage.
 
 # Contact
