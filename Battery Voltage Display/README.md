@@ -1,4 +1,5 @@
 # 1.0 IN-PROGRESS
+I have ordered the parts for implementation testing before designing a PCB.
 
 # Battery Voltage Display
 Designed to display the current battery voltage along with an indicator if voltage levels exceed a threshold.
