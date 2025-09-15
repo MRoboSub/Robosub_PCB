@@ -10,6 +10,7 @@ When assembling each board, the exposed copper traces need to be covered with a 
 - No need to overkill the current rating
 - More information displayed such as active ESC indicators
 - Include more protection features!
+- Get fuse holders that actually handle 30 amps
   
 # Contact
 For any questions, feel free to message me via my number or send me an email:-
