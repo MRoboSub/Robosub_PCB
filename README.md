@@ -9,5 +9,6 @@ Where all the electrical PCBs can be found!
 
 # Current Goals
 - Simple hall effect + led board
-- Battery indicator with proper warnings=
 - Smart power rail/ regulators?
+
+- Battery indicator with proper warnings ✅
