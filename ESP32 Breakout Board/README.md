@@ -6,7 +6,7 @@ This board is designed to break out the PWM control wires from the Seeed Studio 
 ### Microcontroller:
 - 1x Seeed Studio XIAO ESP32 S3
 ### RJ45 Ports:
-- 2x 855055113 (2 positions available on board)
+- 2x 855055113
 ### Buzzer (OPTIONAL):
 - 1x Passive or Active buzzer 12x9.5RM7.6 (the super common ones you see in Arduino kits)
 
