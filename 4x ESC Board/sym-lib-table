@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "85505-5113")(type "KiCad")(uri "${KIPRJMOD}/Libraries/85505-5113/85505-5113.kicad_sym")(options "")(descr ""))
+  (lib (name "TB009-508-02BE")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TB009-508-02BE/TB009-508-02BE.kicad_sym")(options "")(descr ""))
+  (lib (name "TB009-508-03BE")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TB009-508-03BE/TB009-508-03BE.kicad_sym")(options "")(descr ""))
+  (lib (name "XT60PW-F")(type "KiCad")(uri "${KIPRJMOD}/Libraries/XT60PW-F Power Connector/XT60PW-F.kicad_sym")(options "")(descr ""))
+  (lib (name "XT60PW-M")(type "KiCad")(uri "${KIPRJMOD}/Libraries/XT60PW-M Power Connector/XT60PW-M.kicad_sym")(options "")(descr ""))
+  (lib (name "PTF-76-10")(type "KiCad")(uri "${KIPRJMOD}/Libraries/PTF-76-10 Fuse Holder/696106003002.kicad_sym")(options "")(descr ""))
+  (lib (name "MMBT3904T")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MMBT3904T/MMBT3904T.kicad_sym")(options "")(descr ""))
+)
