@@ -1,6 +1,6 @@
 # 4x ESC Board
 
-This is designed to hold 4 of the BlueRobotics Basic ESC which have their PWM signals routes via an RJ45 port.
+This is designed to hold 4 of the BlueRobotics Basic ESC which have their PWM signals routes via an RJ45 port. There are two positions to attach the RJ45 port, and they are wired identically.
 
 An indicator LED shows that the controller board is active. Each ESC has a fuse and traces sufficient for any current needed.
 
@@ -14,7 +14,7 @@ When assembling each board, the exposed copper traces need to be covered with a 
 ### Fuse Holders:
 - 4x PTF-76-10
 ### RJ45 Ports:
-- 4x 855055113
+- 1x 855055113 (2 positions available on board)
 ### LED Indicator Setups (OPTIONAL, SMD):
 - 1x L78L05_SOT89
 - 4x (360, 1k, 10k ohm) 805 resistors
